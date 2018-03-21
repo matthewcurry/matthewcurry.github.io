@@ -1,0 +1,103 @@
+
+<!DOCTYPE HTML>
+<!--
+ TODO:
+
+ 1. Allow selection of close places vs. far places, quick places vs. slow places
+ 2. Stable selection when switching between qualifiers
+ 3. Reroll button
+ -->
+
+<script>
+  var include_slow = false;
+  var include_far = false;
+  var debug_output = false;
+  var random_number;
+
+  var slow_restaurants = ['Cheesecake Factory',
+                          'Thai Tip'];
+  var far_restaurants = ['Relish',
+                         'Cheesecake Factory',
+                         'Pollo con Papas',
+                         'Giovanni\'s'];
+  var close_n_quick = ['Twisters',
+                       'Golden Pride',
+                       'Basil Leaf',
+                       'Dion\'s',
+                       'the Owl Cafe',
+                       'Chili\'s',
+                       'Taco Cabana',
+                       'Panda Express',
+                       'Dickey\'s',
+                       'Food Truck',
+                       'Sushi Xuan']
+
+  function update_seed() {
+    random_number = Math.random();
+  }
+
+  function get_restaurant() {
+    var biglist = [];
+    var dnu = [];
+    biglist.push.apply(biglist, close_n_quick);
+
+    if (include_slow) {
+      biglist.push.apply(biglist, slow_restaurants);
+    } else {
+      dnu.push.apply(dnu, slow_restaurants);
+    }
+
+    if (include_far) {
+      biglist.push.apply(biglist, far_restaurants);
+    } else {
+      dnu.push.apply(dnu, far_restaurants);
+    }
+
+    // filter duplicates
+    var restaurants = biglist.filter(function(item, pos, self) {
+      return self.indexOf(item) == pos;
+    })
+    var dnu_filtered = dnu.filter(function(item, pos, self) {
+      return self.indexOf(item) == pos;
+    })
+
+    // I don't like the values to be sticky when you're messing with the
+    // checkboxes. Therefore, I eschew javascript's use of a floating point
+    // random number and do the old fashioned modulus thing instead.
+    var idx = Math.floor(random_number * 1000000) % restaurants.length;
+    var choice = restaurants[idx];
+    document.getElementById("lunch_dest").innerHTML = choice + "?!";
+
+    if (debug_output) {
+      document.getElementById("debug_zone").innerHTML =
+               "<p>Restaurants under consideration: " + biglist +
+               "<p>Restaurants excluded: " + dnu_filtered +
+               "<p>include_slow = " + include_slow +
+               "<p>include_far = " + include_far
+    } else {
+      document.getElementById("debug_zone").innerHTML = "";
+    }
+  }
+</script>
+
+<html>
+  <head>
+    <title>LunchGen 2.0</title>
+  </head>
+  <body style="margin-top: 10%">
+    <center>
+      <p>Hmmm... Feel like</p>
+      <p id="lunch_dest" style="font-size: xx-large" />
+      <p>If you can't find something you like, find Matthew C. and suggest
+	something he can add. Thanks to Mike L. for the original idea.</p>
+      <form>
+	<input id="far" type="checkbox" onclick="include_far=!include_far;get_restaurant()" />Include far-away restaurants <br />
+	<input id="slow" type="checkbox" onclick="include_slow=!include_slow;get_restaurant()" />Include slow restaurants <br />
+	<input id="debug" type="checkbox" onclick="debug_output=!debug_output;get_restaurant();" />Show inner secrets <br />
+	<input id="refresh" type="button" value="Get another" onclick="update_seed();get_restaurant();" />
+      </form>
+      <p id="debug_zone" style="font-size: xx-small" />
+      <script>update_seed();get_restaurant();</script>
+    </center>
+  </body>
+</html>
