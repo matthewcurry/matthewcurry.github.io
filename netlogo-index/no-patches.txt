@@ -1,0 +1,4 @@
+KEYWORD no-patches
+NetLogo 6.0.4/app/models/Sample Models/Chemistry & Physics/Sandpile.nlogo
+NetLogo 6.0.4/app/models/IABM Textbook/chapter 8/Sandpile Simple.nlogo
+NetLogo 6.0.4/app/models/HubNet Activities/Sampler HubNet.nlogo

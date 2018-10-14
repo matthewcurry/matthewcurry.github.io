@@ -1,0 +1,12 @@
+KEYWORD inspect
+NetLogo 6.0.4/app/models/Sample Models/Chemistry & Physics/Kicked Rotators.nlogo
+NetLogo 6.0.4/app/models/Sample Models/Mathematics/Probability/Binomial Rabbits.nlogo
+NetLogo 6.0.4/app/models/Sample Models/Biology/BeeSmart Hive Finding.nlogo
+NetLogo 6.0.4/app/models/Sample Models/Biology/Evolution/Anisogamy.nlogo
+NetLogo 6.0.4/app/models/Sample Models/Computer Science/Hex Cell Aggregation.nlogo
+NetLogo 6.0.4/app/models/Curricular Models/Urban Suite/Urban Suite - Tijuana Bordertowns.nlogo
+NetLogo 6.0.4/app/models/Curricular Models/Urban Suite/Urban Suite - Economic Disparity.nlogo
+NetLogo 6.0.4/app/models/Curricular Models/GenEvo/GenEvo 4 Competition.nlogo
+NetLogo 6.0.4/app/models/Code Examples/Transparency Example.nlogo
+NetLogo 6.0.4/app/models/IABM Textbook/chapter 5/Traffic Grid Goal.nlogo
+NetLogo 6.0.4/app/models/Alternative Visualizations/Virus - Alternative Visualization.nlogo

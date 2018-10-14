@@ -1,0 +1,3 @@
+KEYWORD acos
+NetLogo 6.0.4/app/models/3D/Sample Models/Surface Walking 3D.nlogo3d
+NetLogo 6.0.4/app/models/3D/Sample Models/GasLab/GasLab Single Collision 3D.nlogo3d

@@ -1,0 +1,11 @@
+KEYWORD variance
+NetLogo 6.0.4/app/models/Sample Models/Chemistry & Physics/GasLab/Unverified/GasLab Second Law.nlogo
+NetLogo 6.0.4/app/models/Sample Models/Mathematics/Probability/ProbLab/Unverified/Random Combinations and Permutations.nlogo
+NetLogo 6.0.4/app/models/Sample Models/Mathematics/Probability/ProbLab/Unverified/Random Basic Advanced.nlogo
+NetLogo 6.0.4/app/models/Sample Models/Mathematics/Probability/ProbLab/Dice.nlogo
+NetLogo 6.0.4/app/models/Sample Models/Biology/Muscle Development.nlogo
+NetLogo 6.0.4/app/models/Sample Models/Biology/Simple Birth Rates.nlogo
+NetLogo 6.0.4/app/models/Sample Models/Biology/Evolution/Genetic Drift/GenDrift T interact.nlogo
+NetLogo 6.0.4/app/models/Sample Models/Biology/Evolution/Genetic Drift/GenDrift T reproduce.nlogo
+NetLogo 6.0.4/app/models/Sample Models/Biology/Evolution/Genetic Drift/GenDrift P local.nlogo
+NetLogo 6.0.4/app/models/Sample Models/Social Science/Unverified/Artificial Anasazi.nlogo

@@ -1,0 +1,10 @@
+KEYWORD set-plot-pen-mode
+NetLogo 6.0.4/app/models/Sample Models/Chemistry & Physics/Crystallization/Crystallization Moving.nlogo
+NetLogo 6.0.4/app/models/Sample Models/Chemistry & Physics/Crystallization/Crystallization Directed.nlogo
+NetLogo 6.0.4/app/models/Sample Models/Chemistry & Physics/Crystallization/Crystallization Basic.nlogo
+NetLogo 6.0.4/app/models/Sample Models/Mathematics/Probability/ProbLab/Unverified/Random Combinations and Permutations.nlogo
+NetLogo 6.0.4/app/models/Sample Models/Mathematics/Probability/ProbLab/Dice.nlogo
+NetLogo 6.0.4/app/models/Sample Models/Biology/Evolution/Bacterial Infection.nlogo
+NetLogo 6.0.4/app/models/Sample Models/Biology/Evolution/Bug Hunt Speeds.nlogo
+NetLogo 6.0.4/app/models/HubNet Activities/Unverified/Prisoners Dilemma HubNet.nlogo
+NetLogo 6.0.4/app/models/HubNet Activities/Unverified/Walking HubNet.nlogo

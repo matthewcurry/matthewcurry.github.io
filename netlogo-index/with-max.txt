@@ -1,0 +1,9 @@
+KEYWORD with-max
+NetLogo 6.0.4/app/models/Sample Models/Social Science/Sugarscape/Sugarscape 2 Constant Growback.nlogo
+NetLogo 6.0.4/app/models/Sample Models/Social Science/Sugarscape/Sugarscape 3 Wealth Distribution.nlogo
+NetLogo 6.0.4/app/models/Sample Models/Social Science/Sugarscape/Sugarscape 1 Immediate Growback.nlogo
+NetLogo 6.0.4/app/models/Curricular Models/BEAGLE Evolution/HubNet Activities/Fish Spotters HubNet.nlogo
+NetLogo 6.0.4/app/models/3D/Sample Models/Flocking 3D.nlogo3d
+NetLogo 6.0.4/app/models/HubNet Activities/Unverified/Guppy Spots HubNet.nlogo
+NetLogo 6.0.4/app/models/HubNet Activities/Bug Hunters Camouflage HubNet.nlogo
+NetLogo 6.0.4/app/models/HubNet Activities/Memory HubNet.nlogo

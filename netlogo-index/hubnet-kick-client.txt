@@ -1,0 +1,2 @@
+KEYWORD hubnet-kick-client
+NetLogo 6.0.4/app/models/Curricular Models/NIELS/Current in a Wire HubNet.nlogo

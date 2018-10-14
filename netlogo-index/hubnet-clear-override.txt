@@ -1,0 +1,2 @@
+KEYWORD hubnet-clear-override
+NetLogo 6.0.4/app/models/Curricular Models/BEAGLE Evolution/HubNet Activities/Critter Designers HubNet.nlogo

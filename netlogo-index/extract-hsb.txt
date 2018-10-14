@@ -1,0 +1,2 @@
+KEYWORD extract-hsb
+NetLogo 6.0.4/app/models/Sample Models/Biology/Evolution/Bug Hunt Camouflage.nlogo

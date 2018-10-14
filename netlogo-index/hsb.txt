@@ -1,0 +1,4 @@
+KEYWORD hsb
+NetLogo 6.0.4/app/models/Code Examples/Extensions Examples/nw/NW General Examples.nlogo
+NetLogo 6.0.4/app/models/Code Examples/HSB and RGB Example.nlogo
+NetLogo 6.0.4/app/models/Alternative Visualizations/Heat Diffusion - Alternative Visualization.nlogo

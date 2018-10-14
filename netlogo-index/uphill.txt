@@ -1,0 +1,5 @@
+KEYWORD uphill
+NetLogo 6.0.4/app/models/Sample Models/Chemistry & Physics/Lennard-Jones.nlogo
+NetLogo 6.0.4/app/models/3D/Code Examples/Hill Climbing Example 3D.nlogo3d
+NetLogo 6.0.4/app/models/Code Examples/Hill Climbing Example.nlogo
+NetLogo 6.0.4/app/models/Code Examples/Extensions Examples/view2.5d/2.5d Patch View Example.nlogo

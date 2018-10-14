@@ -1,0 +1,3 @@
+KEYWORD stop-inspecting
+NetLogo 6.0.4/app/models/IABM Textbook/chapter 5/Traffic Grid Goal.nlogo
+NetLogo 6.0.4/app/models/Alternative Visualizations/Virus - Alternative Visualization.nlogo

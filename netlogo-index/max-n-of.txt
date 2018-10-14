@@ -1,0 +1,4 @@
+KEYWORD max-n-of
+NetLogo 6.0.4/app/models/Code Examples/Extensions Examples/nw/NW General Examples.nlogo
+NetLogo 6.0.4/app/models/IABM Textbook/chapter 2/Simple Economy.nlogo
+NetLogo 6.0.4/app/models/IABM Textbook/chapter 8/Simple Viral Marketing.nlogo

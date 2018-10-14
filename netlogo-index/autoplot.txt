@@ -1,0 +1,2 @@
+KEYWORD autoplot
+NetLogo 6.0.4/app/models/Code Examples/Rolling Plot Example.nlogo

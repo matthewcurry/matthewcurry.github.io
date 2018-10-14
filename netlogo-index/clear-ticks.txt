@@ -1,0 +1,2 @@
+KEYWORD clear-ticks
+NetLogo 6.0.4/app/models/Sample Models/Biology/Simple Birth Rates.nlogo

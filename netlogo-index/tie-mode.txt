@@ -1,0 +1,7 @@
+KEYWORD tie-mode
+NetLogo 6.0.4/app/models/Curricular Models/ModelSim/Evolution/Bacteria Food Hunt.nlogo
+NetLogo 6.0.4/app/models/Curricular Models/BEAGLE Evolution/DNA Protein Synthesis.nlogo
+NetLogo 6.0.4/app/models/Curricular Models/BEAGLE Evolution/DNA Replication Fork.nlogo
+NetLogo 6.0.4/app/models/Curricular Models/BEAGLE Evolution/HubNet Activities/Bird Breeders HubNet.nlogo
+NetLogo 6.0.4/app/models/Curricular Models/BEAGLE Evolution/HubNet Activities/Fish Spotters HubNet.nlogo
+NetLogo 6.0.4/app/models/Curricular Models/BEAGLE Evolution/Fish Tank Genetic Drift.nlogo

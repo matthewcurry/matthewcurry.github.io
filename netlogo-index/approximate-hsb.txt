@@ -1,0 +1,4 @@
+KEYWORD approximate-hsb
+NetLogo 6.0.4/app/models/Curricular Models/BEAGLE Evolution/HubNet Activities/Fish Spotters HubNet.nlogo
+NetLogo 6.0.4/app/models/Code Examples/HSB and RGB Example.nlogo
+NetLogo 6.0.4/app/models/Alternative Visualizations/Flocking - Alternative Visualizations.nlogo

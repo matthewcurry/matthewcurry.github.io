@@ -1,0 +1,4 @@
+KEYWORD approximate-rgb
+NetLogo 6.0.4/app/models/Sample Models/Biology/Muscle Development.nlogo
+NetLogo 6.0.4/app/models/Sample Models/Biology/Evolution/Bug Hunt Camouflage.nlogo
+NetLogo 6.0.4/app/models/Code Examples/HSB and RGB Example.nlogo

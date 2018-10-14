@@ -1,0 +1,8 @@
+KEYWORD standard-deviation
+NetLogo 6.0.4/app/models/Sample Models/Chemistry & Physics/GasLab/GasLab Two Gas.nlogo
+NetLogo 6.0.4/app/models/Sample Models/Mathematics/Probability/ProbLab/Unverified/Central Limit Theorem.nlogo
+NetLogo 6.0.4/app/models/Sample Models/Mathematics/Probability/ProbLab/Unverified/Random Basic Advanced.nlogo
+NetLogo 6.0.4/app/models/Sample Models/Mathematics/Probability/Random Walk 360.nlogo
+NetLogo 6.0.4/app/models/Sample Models/Social Science/Minority Game.nlogo
+NetLogo 6.0.4/app/models/HubNet Activities/Minority Game HubNet.nlogo
+NetLogo 6.0.4/app/models/HubNet Activities/Sampler HubNet.nlogo

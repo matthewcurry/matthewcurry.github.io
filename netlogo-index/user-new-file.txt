@@ -1,0 +1,6 @@
+KEYWORD user-new-file
+NetLogo 6.0.4/app/models/Code Examples/File Input Example.nlogo
+NetLogo 6.0.4/app/models/Code Examples/Extensions Examples/sound/Beatbox.nlogo
+NetLogo 6.0.4/app/models/Code Examples/Extensions Examples/vid/Movie Recording Example.nlogo
+NetLogo 6.0.4/app/models/Code Examples/File Output Example.nlogo
+NetLogo 6.0.4/app/models/HubNet Activities/Unverified/Polling Advanced HubNet.nlogo

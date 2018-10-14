@@ -1,0 +1,3 @@
+KEYWORD hubnet-send-watch
+NetLogo 6.0.4/app/models/HubNet Activities/Code Examples/Client Perspective Example HubNet.nlogo
+NetLogo 6.0.4/app/models/HubNet Activities/BeeSmart HubNet.nlogo

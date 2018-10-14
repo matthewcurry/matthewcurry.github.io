@@ -1,0 +1,2 @@
+KEYWORD file-close-all
+NetLogo 6.0.4/app/models/Code Examples/Extensions Examples/csv/CSV Example.nlogo

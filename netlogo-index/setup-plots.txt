@@ -1,0 +1,2 @@
+KEYWORD setup-plots
+NetLogo 6.0.4/app/models/HubNet Activities/Minority Game HubNet.nlogo

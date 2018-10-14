@@ -1,0 +1,3 @@
+KEYWORD both-ends
+NetLogo 6.0.4/app/models/Sample Models/Networks/Preferential Attachment.nlogo
+NetLogo 6.0.4/app/models/IABM Textbook/chapter 5/Preferential Attachment Simple.nlogo

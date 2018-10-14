@@ -1,0 +1,17 @@
+KEYWORD home
+NetLogo 6.0.4/app/models/Sample Models/Mathematics/Probability/Random Walk 360.nlogo
+NetLogo 6.0.4/app/models/Sample Models/Biology/Fairy Circles.nlogo
+NetLogo 6.0.4/app/models/Sample Models/Biology/BeeSmart Hive Finding.nlogo
+NetLogo 6.0.4/app/models/Sample Models/Social Science/Oil Cartel HubNet.nlogo
+NetLogo 6.0.4/app/models/Curricular Models/ProbLab/Sampler Solo.nlogo
+NetLogo 6.0.4/app/models/Curricular Models/Urban Suite/Urban Suite - Tijuana Bordertowns.nlogo
+NetLogo 6.0.4/app/models/Curricular Models/Urban Suite/Urban Suite - Path Dependence.nlogo
+NetLogo 6.0.4/app/models/Curricular Models/epiDEM/epiDEM Travel and Control.nlogo
+NetLogo 6.0.4/app/models/index.conf
+NetLogo 6.0.4/app/models/Code Examples/Grouping Turtles Example.nlogo
+NetLogo 6.0.4/app/models/IABM Textbook/chapter 5/Traffic Grid Goal.nlogo
+NetLogo 6.0.4/app/models/IABM Textbook/chapter 3/El Farol Extensions/El Farol Extension 1.nlogo
+NetLogo 6.0.4/app/models/IABM Textbook/chapter 3/El Farol Extensions/El Farol Extension 2.nlogo
+NetLogo 6.0.4/app/models/IABM Textbook/chapter 3/El Farol Extensions/El Farol.nlogo
+NetLogo 6.0.4/app/models/IABM Textbook/chapter 3/El Farol Extensions/El Farol Extension 3.nlogo
+NetLogo 6.0.4/app/models/IABM Textbook/chapter 8/Simple Machine Learning.nlogo

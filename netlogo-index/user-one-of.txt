@@ -1,0 +1,5 @@
+KEYWORD user-one-of
+NetLogo 6.0.4/app/models/Code Examples/User Interaction Example.nlogo
+NetLogo 6.0.4/app/models/IABM Textbook/chapter 8/Arduino Example.nlogo
+NetLogo 6.0.4/app/models/HubNet Activities/Unverified/Polling Advanced HubNet.nlogo
+NetLogo 6.0.4/app/models/HubNet Activities/Unverified/Walking HubNet.nlogo

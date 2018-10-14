@@ -1,0 +1,7 @@
+KEYWORD shuffle
+NetLogo 6.0.4/app/models/Sample Models/Mathematics/Probability/ProbLab/Unverified/Shuffle Board.nlogo
+NetLogo 6.0.4/app/models/Sample Models/Mathematics/Voronoi.nlogo
+NetLogo 6.0.4/app/models/Sample Models/Art/GenJam - Duple.nlogo
+NetLogo 6.0.4/app/models/Sample Models/Biology/Evolution/Rock Paper Scissors.nlogo
+NetLogo 6.0.4/app/models/Sample Models/Earth Science/Erosion.nlogo
+NetLogo 6.0.4/app/models/Sample Models/Social Science/Hotelling's Law.nlogo
